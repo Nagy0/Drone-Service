@@ -1,6 +1,7 @@
 # Drone-Service
 
-This is a proposed design solution for Drone-service.
+- This is a proposed design solution for Drone-service.
+- This project uses JDK 11 and H2 in memory database and maven as build tool.
 
 Steps to start the service:
 1- import the project to any IDE.
